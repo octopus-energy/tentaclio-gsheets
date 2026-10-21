@@ -1,4 +1,4 @@
-"""This package implements the tentaclio gsheets client """
+"""This package implements the tentaclio gsheets client"""
 
 from tentaclio import STREAM_HANDLER_REGISTRY, StreamURLHandler  # noqa
 
