@@ -4,6 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+certifi = ">=2026.10.19"
 
 [dev-packages]
 tentaclio-gsheets = {editable = true, path = "."}
